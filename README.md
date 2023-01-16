@@ -1,6 +1,6 @@
 # DIGITAL FABRICATION
 
-**[Jump right to the course calendar](#course-calendar)**
+**[🔻 JUMP TO THE COURSE CALENDAR 🔻](#course-calendar)**
 
 | Instructor    | Jeff Thompson (please call me Jeff!) |
 | :------------ | :--- |
