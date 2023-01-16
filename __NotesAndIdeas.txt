@@ -1,0 +1,99 @@
+
+VINYL
+assign:
+- poem in ai
+- initials/monogram?
+- multi-color sticker thing
+
+demo/extras:
+- masking for paint
+- stencils for clay
+- apply to non-flat objects?
+
+buy:
+- more colors
+- xfer tape
+- squeegee guys
+- tweezers
+
+LASER
+assign:
+- popup book (or tunnel book?)
+- lamp (veneer)
+- 
+
+demo/extras:
+- kerf bent wood
+- finger joints
+
+- buy:
+- other materials to try?
+- acrylic glue and bottle
+- lightburn?
+
+FDM
+assign:
+- extrude/revolve/loft
+  (three vase forms, made using these commands)
+- 
+
+demo/extras:
+- heat set inserts
+- vase mode?
+
+buy:
+- tip for heat set inserts
+- magnetic build plates?
+- needle file set
+- unusual filaments
+
+SLA
+assign:
+- 
+
+demo/extras:
+- 
+
+buy:
+- unusual resins
+- magnetic bulid plates?
+- second wash bucket?
+
+- - - 
+
+resin printer angle
+- https://themechninja.com/07/3d-printing-flat-surfaces-on-a-sla-3d-printer/
+- tan-1(layer height / pixel width)
+- mars: tan-1(0.05mm / 0.035mm) = 55.01º
+- https://www.rapidtables.com/calc/math/Tan_Calculator.html
+
+https://www.printables.com/
+
+vinyl:
+- initials in ai
+- then something to be a sticker
+- multi-color?
+
+laser:
+- bend veneer hanging lamp?
+  - or living hinge lampshade w custom pattern!
+- means of going to 3D: layers, stacking w standoffs, joints etc
+- then something more complex
+
+https://www.core77.com/posts/114559/Architect-Uses-CAD-and-Laser-Cutter-to-Create-360-Degree-Pop-Up-Books?utm_source=core77&utm_medium=from_tile_image
+
+https://www.instructables.com/Print-and-then-laser-cut-a-quick-tutorial/
+
+https://www.youtube.com/watch?v=zkIViZ5endQ
+
+lightburn software
+
+https://github.com/FormerLurker/ArcWelderLib
+
+https://www.instructables.com/Laserweld-Your-Own-Inflatables/
+
+https://www.youtube.com/watch?v=me4gGfazUdw&list=WL&index=14
+- mod/imrove an existing object?
+
+nervous system
+
