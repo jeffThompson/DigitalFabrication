@@ -4,7 +4,7 @@
 
 | Instructor    | Jeff Thompson (please call me Jeff!) |
 | :------------ | :--- |
-| Time/location | Mondays, 9am–1pm, Morton 201 |
+| Time/location | Mondays, 9am–1pm, Morton 203 (aka `The Studio`) |
 | Email         | jeff.thompson@stevens.edu |
 | Student hours | Morton 208, Mon/Tues 2–3pm |
 
