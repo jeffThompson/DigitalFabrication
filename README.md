@@ -49,13 +49,13 @@ The software we'll be using is all free or provided by the VA&T program, but you
 Since this is the first time we're running this class, we may move things around a bit to give you enough time for your projects and/or cover additional material.
 
 ### VINYL CUTTER
-| DATE       | WHAT   |
+| DATE       | WHAT WE'LL BE DOING |
 | :--------- | :----- |
 | Jan 23     | Hello, housekeeping; install Adobe, order supplies |
 | Jan 30     | Type-set and cut poem |
 
 ### LASER CUTTER  
-| DATE       | WHAT   |
+| DATE       | WHAT WE'LL BE DOING |
 | :--------- | :----- |
 | Feb 6      | Tunnel book, part 1 |
 | Feb 13     | Tunnel book, part 2 |
@@ -64,7 +64,7 @@ Since this is the first time we're running this class, we may move things around
 | Feb 27     | Finish laser-cut thing, install Fusion 360 |
 
 ### FDM PRINTER  
-| DATE       | WHAT   |
+| DATE       | WHAT WE'LL BE DOING |
 | :--------- | :----- |
 | Mar 6      | Extrude/revolve/loft vases |
 | **Mar 13** | **Spring break, no class!** |
@@ -72,13 +72,13 @@ Since this is the first time we're running this class, we may move things around
 | Mar 27     | Finish FDM-printed thing |
 
 ### SLA PRINTER  
-| DATE       | WHAT   |
+| DATE       | WHAT WE'LL BE DOING |
 | :--------- | :----- |
 | Apr 3      | Make a thing using the SLA printer |
 | Apr 10     | Finish SLA-printed thing |
 
 ### FINAL PROJECT  
-| DATE       | WHAT   |
+| DATE       | WHAT WE'LL BE DOING |
 | :--------- | :----- |
 | Apr 17     | Final project, part 1 |
 | Apr 24     | Final project, part 2 |
