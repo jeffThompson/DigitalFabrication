@@ -3,10 +3,10 @@
 ### TLDR
 
 * Due Jan 30  
+  * No need to turn in anything on Canvas  
 * Order supplies  
 * Download and make sure Adobe Illustrator works  
 * Pick 2–3 poems  
-* No need to turn in anything on Canvas  
 
 - - -
 
@@ -16,7 +16,7 @@ You'll need a couple of things right away, so please order or buy them in person
 
 (You won't need the mouse quite yet, so no sweat if you want to shop around.)
 
-The Fab Lab stocks black and white vinyl, but if you want to try other colors you can order some! We stock [Oracal 631](https://www.amazon.com/s?k=oracal+631&i=arts-crafts&crid=1WIG85IZBDBMP&sprefix=oracal+631%2Carts-crafts%2C79&ref=nb_sb_noss_1), which is removable – **make sure you don't buy any other kind or you'll have to learn drywall repair!** You can buy it from Amazon or get Cricut-brand removable vinyl from Michaels.
+The Fab Lab stocks black and white vinyl, but if you want to try other colors you can order some! We'll be using [Oracal 631](https://www.amazon.com/s?k=oracal+631&i=arts-crafts&crid=1WIG85IZBDBMP&sprefix=oracal+631%2Carts-crafts%2C79&ref=nb_sb_noss_1), which is removable – **make sure you don't buy any other kind or you'll have to learn drywall repair!** You can buy it from Amazon or get Cricut-brand removable vinyl from Michaels.
 
 - - -
 
@@ -37,7 +37,8 @@ Your first project will be to lay out a poem in Illustrator and cut it on the vi
 If you want some starting points, I suggest:
 
 * [Poetry Foundation](https://www.poetryfoundation.org/poems) has a wonderful site with tons of poems, which you can even filter by subject!  
-* [Ubuweb](https://www.ubu.com/ethno/poems.html) has a nice "sampler" of [ethnopoetic](https://en.wikipedia.org/wiki/Ethnopoetics) pieces, moslty translated from other languages 
+* [Ubuweb](https://www.ubu.com/ethno/poems.html) has a nice "sampler" of [ethnopoetic](https://en.wikipedia.org/wiki/Ethnopoetics) pieces, mostly translated from other languages  
+* [The New Yorker](https://www.newyorker.com/magazine/poems) has a great online collection of contemporary poetry  
 
-Avoid super short (less than four lines) or long poems (unless you want to excerpt)!
+Avoid super short (less than four lines) or long poems (unless you want to excerpt).
 

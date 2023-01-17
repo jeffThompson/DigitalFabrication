@@ -51,7 +51,7 @@ Since this is the first time we're running this class, we may move things around
 ### VINYL CUTTER
 | DATE       | WHAT WE'LL BE DOING |
 | :--------- | :----- |
-| Jan 23     | [Hello, housekeeping; install Adobe, order supplies](Week01-Hello) |
+| Jan 23     | [Hello, housekeeping; install Adobe, order supplies, pick 2–3 poems](Week01-Hello) |
 | Jan 30     | Type-set and cut poem |
 
 ### LASER CUTTER  
