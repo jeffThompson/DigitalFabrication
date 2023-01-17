@@ -18,7 +18,7 @@ You'll need a couple of things right away, so please order or buy them in person
 
 The Fab Lab stocks black and white vinyl, but if you want to try other colors you can order some! We'll be using [Oracal 631](https://www.amazon.com/s?k=oracal+631&i=arts-crafts&crid=1WIG85IZBDBMP&sprefix=oracal+631%2Carts-crafts%2C79&ref=nb_sb_noss_1), which is removable – **make sure you don't buy any other kind or you'll have to learn drywall repair!** You can buy it from Amazon or get Cricut-brand removable vinyl from Michaels.
 
-***Please also be sure you have money on your DuckBills!*** You'll use this to pay for things in the Fab Lab, including the vinyl for our first assignment. The Fab Lab can't take cash or any other form of payment.
+> **Please also be sure you have money on your DuckBills!** You'll use this to pay for things in the Fab Lab, including the vinyl for our first assignment. The Fab Lab can't take cash or any other form of payment.
 
 - - -
 
