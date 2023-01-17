@@ -2,11 +2,11 @@
 
 **[🔻 JUMP TO THE COURSE CALENDAR 🔻](#course-calendar)**
 
-| Instructor    | Jeff Thompson (please call me Jeff!) |
+| Instructor    | Jeff Thompson (please call me Jeff) |
 | :------------ | :--- |
 | Time/location | Mondays, 9am–1pm, Morton 203 (aka `The Studio`) |
 | Email         | jeff.thompson@stevens.edu |
-| Student hours | Morton 208, Mon/Tues 2–3pm |
+| Student hours | Mon/Tues 2–3pm, Morton 208 |
 
 Making physical objects with computers has a long, interesting history. Numerically-controlled milling machines automated tedius manufcaturing tasks (at the expense of worker expertise) using punched tape to store programs starting the in the 1940s and 50s, followed by fully computer-controlled CNC equipment in the 1960s. Like CNC tools, 3D printers were being prototyped as early as the 1980s but it wasn't until the early 2000s that efforts like RepRap made 3D printing inexpensive and accessible. Today, we have a huge range of machines that can ooze plastic, use lasers to cut materials like wood and steel, solidify liquid resin with LCD screens, not to mention the many exciting experimental machines and projects that push what's possible with these technologies. Emerging tools are exciting for artists and designers (and many other fields!) because they offer new materials and ways of making (and limitations which can also be inspiring). And in many fields, 3D modeling and digital fabrication are now the norm, augmenting or replacing more traditional methods.
 
