@@ -18,13 +18,15 @@ You'll need a couple of things right away, so please order or buy them in person
 
 The Fab Lab stocks black and white vinyl, but if you want to try other colors you can order some! We'll be using [Oracal 631](https://www.amazon.com/s?k=oracal+631&i=arts-crafts&crid=1WIG85IZBDBMP&sprefix=oracal+631%2Carts-crafts%2C79&ref=nb_sb_noss_1), which is removable – **make sure you don't buy any other kind or you'll have to learn drywall repair!** You can buy it from Amazon or get Cricut-brand removable vinyl from Michaels.
 
+***Please also be sure you have money on your DuckBills!*** You'll use this to pay for things in the Fab Lab, including the vinyl for our first assignment. The Fab Lab can't take cash or any other form of payment.
+
 - - -
 
 ### DOWNLOAD/TEST ADOBE ILLUSTRATOR  
 
 For the next month, Adobe Illustrator will be our CAD program of choice. This week, please make sure it's installed and working!
 
-**VA&T majors:** you probably already have Adobe installed, but if not you should talk with Prof. Chris Manzione to get sorted. Either way, please actually open the program and make sure everything is good to go!
+**VA&T majors:** you probably already have Adobe installed, but if not you should talk with Prof. Chris Manzione to get sorted. Either way, please actually open Illustrator and make sure everything is good to go!
 
 **Non-majors:** you should have received an email from IT regarding access. Please install Creative Cloud, then you can install Illustrator from the app. If you need help, the [IT TRAC Office](https://www.stevens.edu/it-support) can help! Please be sure you open Illustrator and confirm everything is working.
 
