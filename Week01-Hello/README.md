@@ -28,7 +28,7 @@ For the next month, Adobe Illustrator will be our CAD program of choice. This we
 
 **VA&T majors:** you probably already have Adobe installed, but if not you should talk with Prof. Chris Manzione to get sorted. Either way, please actually open Illustrator and make sure everything is good to go!
 
-**Non-majors:** you should have received an email from IT regarding access. Please install Creative Cloud, then you can install Illustrator from the app. If you need help, the [IT TRAC Office](https://www.stevens.edu/it-support) can help! Please be sure you open Illustrator and confirm everything is working.
+**Non-majors:** you should have received an email from IT regarding access. To install Creative Cloud, [go here and sign in with your Stevens login]( https://www.adobe.com/creativecloud/desktop-app.html). After installation, you can open the Creative Cloud app to install Illustrator. If you have problems, the [IT TRAC Office](https://www.stevens.edu/it-support) can help! Please be sure you actually open Illustrator and confirm everything is working.
 
 - - -
 
