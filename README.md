@@ -30,7 +30,7 @@ More specifically, our semester will be divided into five parts...
 
 We'll also take a field trip to [Leerform](https://www.leerform.com/) in Brooklyn to see how they use 3D scanning and various CNC machines in their work, and of course look at lots of examples of the ways creative makers are using digital fabrication tools.
 
-Other class materials can be [found in the syllabus](Syllabus.pdf).
+Other class materials can be [found in the syllabus](Syllabus.md).
 
 - - -
 
