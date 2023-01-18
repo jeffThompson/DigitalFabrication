@@ -46,7 +46,7 @@ The software we'll be using is all free or provided by the VA&T program, but you
 - - -
 
 ## COURSE CALENDAR  
-Since this is the first time we're running this class, we may move things around a bit to give you enough time for your projects and/or cover additional material.
+*Since this is the first time we're running this class, we may move things around a bit to give you enough time for your projects and/or cover additional material. I'll give you a heads up about any changes but be sure to read the assignments carefully.*
 
 ### VINYL CUTTER
 | DATE       | WHAT WE'LL BE DOING |
