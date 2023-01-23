@@ -8,6 +8,8 @@
 * Download and make sure Adobe Illustrator works  
 * Pick 2–3 poems  
 
+*The examples we looked at of folks doing cool stuff with digital fabrication is at the bottom!*
+
 - - -
 
 ### ORDER SUPPLIES  
@@ -43,4 +45,25 @@ If you want some starting points, I suggest:
 * [The New Yorker](https://www.newyorker.com/magazine/poems) has a great online collection of contemporary poetry  
 
 Avoid super short (less than four lines) or long poems (unless you want to excerpt).
+
+- - -
+
+### FOLKS DOING COOL STUFF WITH DIGITAL FABRICATION  
+
+Laser-cutter:
+* [Ibbini Studio](https://www.thisiscolossal.com/2021/12/ibbini-studio-sculpture/)
+* [Gabriela Schama](https://www.gabrielschama.com/2018-2019)  
+* [Space Wolf](https://www.spacewolfltd.com/product/vardoger-the-vicious-maple-variant)
+* [Nervous System](https://n-e-r-v-o-u-s.com/projects/sets/puzzles/)
+* [Martin Tomsky](https://www.martintomsky.com/)
+
+3D printing:
+* [Britt Ransom](https://www.brittanyransom.com/suspended)
+* [Bill Albertini](https://billalbertini.com/section/463908-Theodore-Art-2018.html)
+* [Nervous System again!](https://n-e-r-v-o-u-s.com/projects/sets/kinematics/) (and [a peek at the custom software used to create their work](https://n-e-r-v-o-u-s.com/labs/))
+* [Michael Hansmeyer](https://www.michael-hansmeyer.com/digital-grotesque-I)
+* [Heather Dewey Hagborg](https://deweyhagborg.com/projects/stranger-visions)
+* [Kate Blacklock](https://www.kateblacklock.com/3d-printed-ceramics/)
+* [Pheobe Hui](https://www.artbasel.com/stories/phoebe-hui-tai-kwun-audemars-art-installation)
+* [Neri Oxman](https://oxman.com/projects/vespers-i)
 
