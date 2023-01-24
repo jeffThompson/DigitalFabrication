@@ -6,7 +6,7 @@
   * No need to turn in anything on Canvas  
 * Order supplies  
 * Download and make sure Adobe Illustrator works  
-* Pick 2–3 poems  
+* ~Pick 2–3 poems~ Nope, change of plan!  
 
 *The examples we looked at of folks doing cool stuff with digital fabrication is at the bottom!*
 
@@ -30,13 +30,14 @@ For the next month, Adobe Illustrator will be our CAD program of choice. This we
 
 **VA&T majors:** you probably already have Adobe installed, but if not you should talk with Prof. Chris Manzione to get sorted. Either way, please actually open Illustrator and make sure everything is good to go!
 
-**Non-majors:** you should have received an email from IT regarding access. To install Creative Cloud, [go here and sign in with your Stevens login]( https://www.adobe.com/creativecloud/desktop-app.html). After installation, you can open the Creative Cloud app to install Illustrator. If you have problems, the [IT TRAC Office](https://www.stevens.edu/it-support) can help! Please be sure you actually open Illustrator and confirm everything is working.
+**Non-majors:** to install Creative Cloud, [go here and sign in with your Stevens login]( https://www.adobe.com/creativecloud/desktop-app.html). After installation, you can open the Creative Cloud app to install Illustrator. If you have problems, the [IT TRAC Office](https://www.stevens.edu/it-support) can help! Please be sure you actually open Illustrator and confirm everything is working.
 
 - - -
 
-### PICK A POEM  
+### ~PICK A POEM~ NOPE!  
+Sorry everyone, changing this up just a bit! No need to find poems, just come to class with Illustrator installed.
 
-Your first project will be to lay out a poem in Illustrator and cut it on the vinyl cutter. To get a head start, spend some time this week picking 2–3 poems you might like to work with. These can be poems you already like but is also a great chance to find something new!
+~Your first project will be to lay out a poem in Illustrator and cut it on the vinyl cutter. To get a head start, spend some time this week picking 2–3 poems you might like to work with. These can be poems you already like but is also a great chance to find something new!
 
 If you want some starting points, I suggest:
 
@@ -44,7 +45,7 @@ If you want some starting points, I suggest:
 * [Ubuweb](https://www.ubu.com/ethno/poems.html) has a nice "sampler" of [ethnopoetic](https://en.wikipedia.org/wiki/Ethnopoetics) pieces, mostly translated from other languages  
 * [The New Yorker](https://www.newyorker.com/magazine/poems) has a great online collection of contemporary poetry  
 
-Avoid super short (less than four lines) or long poems (unless you want to excerpt).
+Avoid super short (less than four lines) or long poems (unless you want to excerpt).~
 
 - - -
 
