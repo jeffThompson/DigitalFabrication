@@ -51,8 +51,8 @@ The software we'll be using is all free or provided by the VA&T program, but you
 ### VINYL CUTTER
 | DATE       | WHAT WE'LL BE DOING |
 | :--------- | :----- |
-| Jan 23     | [Hello, housekeeping; install Adobe, order supplies, pick 2–3 poems](Week01-Hello) |
-| Jan 30     | Type-set and cut poem |
+| Jan 23     | [Hello, housekeeping; install Adobe, order supplies, ~pick 2–3 poems~](Week01-Hello) |
+| Jan 30     | Create a figure using typographical symbols |
 
 ### LASER CUTTER  
 | DATE       | WHAT WE'LL BE DOING |
