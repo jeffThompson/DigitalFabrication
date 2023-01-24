@@ -37,16 +37,6 @@ For the next month, Adobe Illustrator will be our CAD program of choice. This we
 ### ~PICK A POEM~ NOPE!  
 Sorry everyone, changing this up just a bit! No need to find poems, just come to class with Illustrator installed.
 
-~Your first project will be to lay out a poem in Illustrator and cut it on the vinyl cutter. To get a head start, spend some time this week picking 2–3 poems you might like to work with. These can be poems you already like but is also a great chance to find something new!
-
-If you want some starting points, I suggest:
-
-* [Poetry Foundation](https://www.poetryfoundation.org/poems) has a wonderful site with tons of poems, which you can even filter by subject!  
-* [Ubuweb](https://www.ubu.com/ethno/poems.html) has a nice "sampler" of [ethnopoetic](https://en.wikipedia.org/wiki/Ethnopoetics) pieces, mostly translated from other languages  
-* [The New Yorker](https://www.newyorker.com/magazine/poems) has a great online collection of contemporary poetry  
-
-Avoid super short (less than four lines) or long poems (unless you want to excerpt).~
-
 - - -
 
 ### FOLKS DOING COOL STUFF WITH DIGITAL FABRICATION  
