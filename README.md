@@ -52,7 +52,7 @@ The software we'll be using is all free or provided by the VA&T program, but you
 | DATE       | WHAT WE'LL BE DOING |
 | :--------- | :----- |
 | Jan 23     | [Hello, housekeeping; install Adobe, order supplies, ~pick 2–3 poems~](Week01-Hello) |
-| Jan 30     | Create a figure using typographical symbols |
+| Jan 30     | [Create a figure using typographical symbols](Week02-VinylCutFigure) |
 
 ### LASER CUTTER  
 | DATE       | WHAT WE'LL BE DOING |
