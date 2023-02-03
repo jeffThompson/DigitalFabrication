@@ -7,6 +7,7 @@
 * [Cutting something](#cutting-something)
 * [Weeding and transfer tape](#weeding-and-transfer-tape)  
 * [Applying the vinyl](#applying-the-vinyl)  
+* [Alternative machines](#alternative-machines)  
 * [Other resources](#other-resources)  
 
 - - -
@@ -165,6 +166,13 @@ Transfer tape is included in the cost of vinyl in the Fab Lab. If you brought yo
 ### APPLYING THE VINYL
 
 > Photos and details coming shortly!
+
+- - -
+
+### ALTERNATIVE MACHINES  
+Our vinyl cutter runs about $1500 new, which isn't super cheap. Alternatives include...
+
+* Cricut: available in various models, much smaller cutting area, can also draw and cut through thin materials, proprietary web-based software  
 
 - - -
 
