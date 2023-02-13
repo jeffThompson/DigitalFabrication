@@ -22,7 +22,7 @@ This week, your assignment is to create the rest of your puppet's body! What thi
 
 Like with the head, try to include as many cool details as you can! Think about using engraving to add detail
 
-You'll also need to consider the joints of your puppet. We'll connect them with metal fasteners that require `0.14 inch` diameter holes.
+You'll also need to consider the joints of your puppet. We'll connect them with metal fasteners that require `0.15 inch` diameter holes.
 
 Lastly, we'll use bamboo skewers as the sticks to control our puppets. We'll spend some time experimenting in class with their placement, but you might want to think about that now as well, especially ways you can create secondary movement.
 
