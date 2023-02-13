@@ -57,8 +57,8 @@ The software we'll be using is all free or provided by the VA&T program, but you
 ### LASER CUTTER  
 | DATE       | WHAT WE'LL BE DOING |
 | :--------- | :----- |
-| Feb 6      | Paper puppets, part 1 |
-| Feb 13     | Paper puppets, part 2 |
+| Feb 6      | [Paper puppets, part 1](Week03-LasercutPuppet) |
+| Feb 13     | [Paper puppets, part 2](Week03-LasercutPuppet) |
 | **Feb 20** | **Presidents' Day, class meets on Wed instead!** |
 | Feb 22     | Make a thing with the laser cutter |
 | Feb 27     | Finish laser-cut thing, install Fusion 360 |
