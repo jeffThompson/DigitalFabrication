@@ -37,6 +37,7 @@ Additionally, check these settings:
 * Vector engrave: `rgb(0, 0, 255)`  
 * Raster engrave: grayscale fill  
 * Stroke width: `0.001 inches`  
+* Joint-hole diameter: `0.15 inches`  
 * Be sure to check for overlapping lines!  
 
 - - -
