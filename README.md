@@ -60,8 +60,8 @@ The software we'll be using is all free or provided by the VA&T program, but you
 | Feb 6      | [Paper puppets, part 1](Week03-LasercutPuppet) |
 | Feb 13     | [Paper puppets, part 2](Week03-LasercutPuppet) |
 | **Feb 20** | **Presidents' Day, class meets on Wed instead!** |
-| Feb 22     | Make a thing with the laser cutter |
-| Feb 27     | Finish laser-cut thing, install Fusion 360 |
+| Feb 22     | [Make a thing with the laser cutter](Week05-MakeAThingWithTheLaserCutter) |
+| Feb 27     | [Finish laser-cut thing](Week05-MakeAThingWithTheLaserCutter), install [Fusion 360](https://www.autodesk.com/products/fusion-360/education) |
 
 ### FDM PRINTER  
 | DATE       | WHAT WE'LL BE DOING |
