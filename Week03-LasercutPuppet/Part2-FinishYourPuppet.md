@@ -20,11 +20,9 @@ This week, your assignment is to create the rest of your puppet's body! What thi
 * Torso or other main body section  
 * At least two limbs (tentacles, etc)  
 
-Like with the head, try to include as many cool details as you can! Think about using engraving to add detail
+Like with the head, try to include as many cool details as you can! Think about using engraving to add decoration, clothes, and other details that will give more interest to your puppet and help tell its story.
 
-You'll also need to consider the joints of your puppet. We'll connect them with metal fasteners that require `0.14 inch` diameter holes.
-
-Lastly, we'll use bamboo skewers as the sticks to control our puppets. We'll spend some time experimenting in class with their placement, but you might want to think about that now as well, especially ways you can create secondary movement.
+You'll also need to consider the joints of your puppet. We'll connect them with metal fasteners that require `0.15 inch` diameter holes. Lastly, we'll use bamboo skewers as the sticks to control our puppets. We'll spend some time experimenting in class with their placement, but you might want to think about that now as well, especially ways you can create secondary movement.
 
 - - -
 
@@ -37,6 +35,7 @@ Additionally, check these settings:
 * Vector engrave: `rgb(0, 0, 255)`  
 * Raster engrave: grayscale fill  
 * Stroke width: `0.001 inches`  
+* Joint-hole diameter: `0.15 inches`  
 * Be sure to check for overlapping lines!  
 
 - - -
