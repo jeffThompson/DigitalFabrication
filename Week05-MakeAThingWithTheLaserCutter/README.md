@@ -8,6 +8,7 @@
 * Make something great using the laser cutter  
   * What that is, materials, etc are up to you!
 * [Install Fusion 360](https://www.autodesk.com/products/fusion-360/education) by March 6 as well  
+  * Be sure to bring your mouse too!  
 
 - - -
 
