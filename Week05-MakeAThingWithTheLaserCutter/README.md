@@ -4,7 +4,7 @@
 
 * Due March 6  
   * For Feb 27: work on your project, post a thing you need help with or have questions about to Canvas  
-  * For March 6: finish your project!  
+  * For March 6: finish your project! (No need to turn in anything on Canvas)  
 * Make something great using the laser cutter  
   * What that is, materials, etc are up to you!
 * [Install Fusion 360](https://www.autodesk.com/products/fusion-360/education) by March 6 as well  
@@ -29,6 +29,13 @@ Be sure to order materials and supplies you might need as well! New materials ca
 > Please think of at least one thing you have a question about or need help with! Post your question/thing you need help with to Canvas.
 
 Come with work in progress you can get feedback on and your materials, ready for a studio day next week.
+
+- - -
+
+### FOR MARCH 6  
+For next week, please finish your lasercut project. The goal should be a refined version of your idea: think about how all the parts work together visually (and functionally, if that's important), how you finish the materials, etc. No need to turn in anything on Canvas, just bring your project ready to show everyone. (Be sure to check the Fab Lab hours this week!)
+
+Additionally, please be sure to [install and open Fusion 360](https://www.autodesk.com/products/fusion-360/education). We'll dive right in next week, so if you have any issues be sure to email me asap. Please also bring your mouse and any USB adapter you need to every class, starting next week.
 
 - - -
 
