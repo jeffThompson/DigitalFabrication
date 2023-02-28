@@ -2,7 +2,7 @@
 
 ### TLDR
 
-*EDIT: due to the campus (and therefore Fab Lab) being closed, please just finish prepping your files for this assignment and install Fusion 360 for next week. We'll check in and see where everything is at.*
+**EDIT: due to the campus (and therefore Fab Lab) being closed, please just finish prepping your files for this assignment and install Fusion 360 for next week. We'll check in and see where everything is at.**
 
 * Due March 6  
   * For Feb 27: work on your project, post a thing you need help with or have questions about to Canvas  
