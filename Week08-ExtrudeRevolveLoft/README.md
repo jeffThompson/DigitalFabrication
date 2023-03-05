@@ -14,11 +14,9 @@
 - - -
 
 ### OVERVIEW  
-To get familiar with creating three-dimensional objects in Fusion 360, we'll start by making vase forms. You should design three vases: one using the `extrude` command, one using `revolve`, and one with `loft`. Then use the `shell` command to make them hollow. These basic modeling ideas will be used throughout the semester to create more complex projects.
+To get familiar with creating three-dimensional objects in Fusion 360, we'll start by making vase forms. You should design three vases: one using the `extrude` command, one using `revolve`, and one with `loft`. Then use the `shell` command to make them hollow. These basic modeling ideas will be used throughout the semester to create more complex projects. Think about what these three commands do well (and don't) and how you can use them to create interesting three-dimensional forms. You can also draw on the historical examples we found in class for inspiration. The goal should be three visually interesting vase forms (and for you to get more comfortable with Fusion 360).
 
 > See the `Images` folder here for screenshots showing each process, or [view the sample project right in Fusion 360](https://a360.co/3kJwMZR)! If you've used Fusion or done 3D modeling before, please only use the tools we looked at in class – be creative within those limitations!
-
-Be as creative as possible! Think about what these three commands do well (and don't) and how you can use them to create interesting three-dimensional forms. You can also draw on the historical examples we found in class for inspiration.
 
 When finished, take a screenshot of your three vase forms and upload to Canvas. In class next week, we'll look at how to export a `stl` file from Fusion and how to prep it for the 3D printer.
 
