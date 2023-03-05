@@ -66,7 +66,7 @@ The software we'll be using is all free or provided by the VA&T program, but you
 ### FDM PRINTER  
 | DATE       | WHAT WE'LL BE DOING |
 | :--------- | :----- |
-| Mar 6      | Extrude/revolve/loft vases |
+| Mar 6      | [Extrude/revolve/loft vases](Week08-ExtrudeRevolveLoft) |
 | **Mar 13** | **Spring break, no class!** |
 | Mar 20     | Make a thing using the FDM printer |
 | Mar 27     | Finish FDM-printed thing |
