@@ -83,5 +83,5 @@ The software we'll be using is all free or provided by the VA&T program, but you
 | Apr 17     | Final project, part 1 |
 | Apr 24     | Final project, part 2 |
 | May 1      | Final project, part 3 |
-| Exam       | Critique of final projects |
+| May 8, 9–11am | Critique of final projects |
 
