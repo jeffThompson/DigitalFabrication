@@ -10,7 +10,7 @@
     * Upload a photo of your large drawing to Canvas and bring to class  
   * April 3: model your project  
     * Export STL from Fusion  
-    * Submit to the Fab Lab by the start of class  
+    * We'll slice them together in class next week
 * Make something in Fusion 360  
   * And print it in the Fab Lab!  
 
@@ -45,4 +45,13 @@ Once you have an idea of what you'd like to do, start a new drawing that refines
 > It's totally ok if you don't feel like you're great at drawing by hand! This process is less about making beautiful drawings as it is about thinking *through* drawing, figuring things out, and explaining your ideas to us.
 
 When you're done, please upload a photo of your large drawing to Canvas and bring it to class next week. If you have time, you can start modeling in Fusion too.
+
+- - -
+
+### FOR MONDAY, APRIL 3  
+This week, you should finish modeling your project in Fusion and export it to an STL file. We'll slice them together in class next week (and cover some extra Cura stuff) to make sure they're ready to print.
+
+When sliced, please submit your file to the Fab Lab for printing. We'll give everyone two weeks to have your files printed and for you to clean up and do any finishing required.
+
+We'll also be starting a new project next week using the resin printer! It's capable of incredibly fine detail and delicate parts. If you have time, it would be good to start thinking about what you might want to make for this project too.
 
