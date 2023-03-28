@@ -5,7 +5,7 @@
 * Due April 3  
   * March 27: ideation  
     * 20 sketches  
-    * Detailed drawing that fills an `8.5x11"` sheet    
+    * Detailed drawing that fills an `8.5x11"` sheet  
     * Bonus: start your 3D model  
     * Upload a photo of your large drawing to Canvas and bring to class  
   * April 3: model your project  
