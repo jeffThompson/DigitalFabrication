@@ -74,8 +74,8 @@ The software we'll be using is all free or provided by the VA&T program, but you
 ### SLA PRINTER  
 | DATE       | WHAT WE'LL BE DOING |
 | :--------- | :----- |
-| Apr 3      | Make a thing using the SLA printer |
-| Apr 10     | Finish SLA-printed thing |
+| Apr 3      | [Make a thing using the SLA printer](Week11-MakeAResinPrintedThing) |
+| Apr 10     | [Finish SLA-printed thing](Week11-MakeAResinPrintedThing) |
 
 ### FINAL PROJECT  
 | DATE       | WHAT WE'LL BE DOING |
