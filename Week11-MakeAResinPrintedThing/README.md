@@ -18,7 +18,7 @@
 ### OVERVIEW  
 As our last project before the final, your assignment is to make something using Fusion 360 and the resin printer. Like our last project, what you make is totally up to you! 
 
-Like the FDM printer, there are some things the resin printer does really well and some it doesn't. The resin printer is great for super fine details, accurate parts, and smooth surfaces. It's not so good at larger parts, especially broad flat surfaces, and all parts require some cleanup with sandpaper or needle files to remove marks from the supports.
+SLA, or stereolithography, is another common type of 3D printing. Unlike the FDM printer, which goops out plastic, the SLA printer uses a UV-sensitive liquid resin, which is cured layer-by-layer using a special video screen. This means super fine details, accurate parts, and smooth surfaces, especially on really small pieces. SLA printing isn't so good at larger parts, especially broad flat surfaces, and all parts require some cleanup with sandpaper or needle files to remove marks from the supports.
 
 We'll cover all the steps for using the resin printer, from slicing to cleanup. But, because we'll have so many prints to run, the Fab Lab will handle washing and curing your prints for you.
 
