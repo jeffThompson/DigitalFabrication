@@ -34,7 +34,7 @@ In class next week, we'll go over slicing your model for resin printing in detai
 ### FOR MONDAY, APRIL 17  
 **NOTE! We'll be visiting Leeform in Brooklyn this week. Updates will be posted here and on Canvas.**
 
-Since we'll be at Leerform this week, your assignment will be to finish your model, slice it for the resin printer, and submit it to the Fab Lab for printing.
+Since we'll be at Leerform this week, your assignment will be to finish your model and slice it for the resin printer. Submit the file on Canvas – I'll take a look and make sure everything looks ok, then I'll send it to the Fab Lab for you.
 
 You should also write up a proposal for your final project – details can be found in the assignment for the final.
 
