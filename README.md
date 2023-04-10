@@ -80,8 +80,8 @@ The software we'll be using is all free or provided by the VA&T program, but you
 ### FINAL PROJECT  
 | DATE       | WHAT WE'LL BE DOING |
 | :--------- | :----- |
-| Apr 17     | Visit Leerform (and Final project, part 1) |
-| Apr 24     | Final project, part 2 |
-| May 1      | Final project, part 3 |
-| May 8, 9–11am | Critique of final projects |
+| Apr 17     | Visit Leerform (and [Final project, part 1](Week13-FinalProject)) |
+| Apr 24     | [Final project, part 2](Week13-FinalProject) |
+| May 1      | [Final project, part 3](Week13-FinalProject) |
+| May 8, 9–11am | [Critique of final projects](Week13-FinalProject) |
 
