@@ -9,7 +9,10 @@
     * Nothing to turn in on Canvas  
   * April 17...  
     * Visit Leeform in Brooklyn  
-    * And submit your file for printing  
+    * Finish your model for the resin printer
+    * Add supports etc in Chitubox
+    * Save the `.chitubox` file and upload to Canvas (not the `STL` or sliced `.ctb` file!)
+    * I'll double-check everything and submit to the Fab Lab for you
 * Make something in Fusion 360  
   * And print it in the Fab Lab!  
 
