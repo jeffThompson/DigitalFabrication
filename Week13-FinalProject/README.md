@@ -2,6 +2,8 @@
 
 ### TLDR
 
+⚠️ **NOTE! Last day to submit files for printing in the Fab Lab is Monday, May 1!** ⚠️  
+
 * Due May 8 at 9am  
   * For April 17: project proposal  
   * For April 24: WIP  
@@ -33,4 +35,18 @@ Your proposal should include:
 * 1 (or more) things we haven't learned yet but you'd be excited to hear more about  
 
 When done, please submit your proposal on Canvas, either as a PDF or in the text entry box.  
+
+- - -
+
+### FOR THE NEXT TWO WEEKS  
+Over the last two weeks of the semester, you should continue making progress on your project, identifying the things you need help with, and thinking about supplies you may need and the timeline for your project. This will vary depending on what you're working on, so please come to class ready to show work in progress (whatever that might look like for you!) and to have studio time.
+
+**Please note the last day to submit files for printing in the Fab Lab is Monday, May 1!** You can laser cut yourself any time up until our final critique, but it will be best to do any Fab Lab related tasks as early as you can. This will give you time to make changes to your files and avoid the crowd.
+
+- - -
+
+### FOR MONDAY, MAY 8 AT 9AM  
+Our final critique is scheduled for Monday, May 8 from 9–11am (actually, it's supposed to start at 8am but that's waaaay too early). Your project should be finished and ready to present by the start of class. Depending on what you're working on, this might include sanding, painting, assembly, etc.
+
+No need to turn in anything on Canvas – I'll take some pictures during our critique.
 
